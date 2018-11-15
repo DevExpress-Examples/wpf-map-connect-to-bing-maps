@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Wpf_MapControl_Lesson1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_Lesson1/MainWindow.xaml))
+<!-- default file list end -->
 # DXMap Getting Started - Lesson 1 - Connect to Bing Maps
 
 
