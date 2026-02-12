@@ -21,7 +21,7 @@ Note that if you run this sample as is, you will get a warning message saying th
 
 * [Lesson 1 - Load Image Tiles to a Map](https://docs.devexpress.com/WPF/10883/controls-and-libraries/map-control/getting-started/lesson-1-load-image-tiles-to-a-map)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-connect-to-bing-maps&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-connect-to-bing-maps&~~~was_helpful=no)
 
